@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hansda_Gaming.aternos.me",
+    "ip": "Hansda_Gaming.aternos.me:54236",
     "port": 54236,
     "version": "",
     "try-creative": false
